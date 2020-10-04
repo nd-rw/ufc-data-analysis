@@ -15,3 +15,6 @@
 - [ ] log fight events
 - [ ] visualise events
 - [ ] prove dataset is valid by confirming that Till's movment was reduced after sidekick to the knee
+
+**Libraries:**
+- BirdsPyView(https://github.com/rjtavares/BirdsPyView)
